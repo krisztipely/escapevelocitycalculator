@@ -40,4 +40,4 @@ Console.WriteLine($"Escape Velocity for Earth: {earthEscapeVelocity} m/s");
 The EscapeVelocityCalculatorTests class contains unit tests using NUnit to validate the correctness of the escape velocity calculation. Run these tests to ensure the accuracy and reliability of the calculator.
 
 ## License
-MIT 2023, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/escapevelocitycalculator/blob/master/LICENSE) 2023, Krisztina-Ronkainen Lakner
